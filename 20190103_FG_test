@@ -1,0 +1,1370 @@
+[{
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "10000.00",
+        "round_id": "AV5a6a88d8-b40b-47c0-9821-ac8e5710069d",
+        "game_level": "1",
+        "pass_symbol_count": "1",
+        "free_spin": {
+            "status": false,
+            "multiple": 0,
+            "count": 0,
+            "used": 0
+        },
+        "result": {
+            "reward_score": "2500.00",
+            "grids": [
+                ["M5", "M3", "M5", "M1"],
+                ["M4", "C1", "M3", "M4"],
+                ["M1", "M1", "M1", "M5"],
+                ["M1", "M4", "M3", "M3"],
+                ["M4", "M1", "M2", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M1",
+                    "count": 4,
+                    "rate": 20,
+                    "win_score": "2000.00",
+                    "positions": [{
+                        "row": 2,
+                        "column": 0
+                    }, {
+                        "row": 2,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 0
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 0
+                }, {
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M3",
+                    "count": 4,
+                    "rate": 5,
+                    "win_score": "500.00",
+                    "positions": [{
+                        "row": 2,
+                        "column": 1
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M3",
+                    "row": 1,
+                    "column": 2
+                }, {
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "10000.00",
+        "round_id": "AV275cf495-a5f3-40f1-af64-ef1ad16002c8",
+        "game_level": "1",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": false,
+            "multiple": 0,
+            "count": 0,
+            "used": 0
+        },
+        "result": {
+            "reward_score": "3000.00",
+            "grids": [
+                ["M4", "M5", "M2", "M3"],
+                ["M4", "M4", "M4", "M1"],
+                ["M3", "M5", "M4", "M1"],
+                ["M4", "M3", "M4", "M4"],
+                ["M2", "M4", "M5", "C1"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 4,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 3
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 5,
+                    "rate": 5,
+                    "win_score": "500.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 0
+                    }, {
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 1,
+                        "column": 2
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M1",
+                    "row": 1,
+                    "column": 2
+                }, {
+                    "symbol": "M3",
+                    "row": 2,
+                    "column": 2
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "10000.00",
+        "round_id": "AVe0ce0dab-294e-4869-9619-ad07f8b14974",
+        "game_level": "1",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": false,
+            "multiple": 0,
+            "count": 0,
+            "used": 0
+        },
+        "result": {
+            "reward_score": "3000.00",
+            "grids": [
+                ["M3", "M3", "M5", "M5"],
+                ["M2", "M2", "M1", "M4"],
+                ["M5", "M2", "M5", "M3"],
+                ["M3", "M5", "M3", "M4"],
+                ["M4", "M4", "M5", "M1"]
+            ],
+            "steps": []
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "10000.00",
+        "round_id": "AVdffc24b7-9d23-4973-bec1-1e3b605b4290",
+        "game_level": "1",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": false,
+            "multiple": 0,
+            "count": 0,
+            "used": 0
+        },
+        "result": {
+            "reward_score": "3000.00",
+            "grids": [
+                ["M4", "M3", "M5", "C1"],
+                ["M5", "M5", "M2", "M4"],
+                ["M5", "M1", "M3", "M3"],
+                ["M3", "M3", "M5", "M1"],
+                ["M5", "M3", "M5", "M2"]
+            ],
+            "steps": []
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "10000.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 0
+        },
+        "result": {
+            "reward_score": "3000.00",
+            "grids": [
+                ["M3", "M3", "M5", "M5"],
+                ["M2", "M2", "M1", "M4"],
+                ["M5", "M2", "C2", "M3"],
+                ["M3", "M5", "M3", "M4"],
+                ["M4", "M4", "M5", "M1"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C2",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 2,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": []
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "3",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 1
+        },
+        "result": {
+            "reward_score": "4200.00",
+            "grids": [
+                ["M4", "M3", "M3", "M5"],
+                ["M4", "C1", "M5", "M2"],
+                ["M3", "M1", "M5", "M5"],
+                ["M4", "M4", "M4", "M4"],
+                ["M2", "M1", "M3", "M3"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 4,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 3,
+                        "column": 0
+                    }, {
+                        "row": 3,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "3",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 2
+        },
+        "result": {
+            "reward_score": "124200.00",
+            "grids": [
+                ["M3", "M1", "M3", "M4"],
+                ["M5", "M5", "M5", "M5"],
+                ["M5", "M5", "M5", "M5"],
+                ["M5", "M5", "M5", "M5"],
+                ["M4", "M5", "M5", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "M5",
+                    "count": 15,
+                    "rate": 400,
+                    "win_score": "120000.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 0
+                    }, {
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 2,
+                        "column": 0
+                    }, {
+                        "row": 2,
+                        "column": 1
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 1,
+                        "column": 2
+                    }, {
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 0
+                    }, {
+                        "row": 4,
+                        "column": 1
+                    }, {
+                        "row": 4,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 1,
+                    "column": 0
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 0
+                }, {
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 1
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 3,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 1,
+                    "column": 2
+                }, {
+                    "symbol": "M3",
+                    "row": 2,
+                    "column": 2
+                }, {
+                    "symbol": "M4",
+                    "row": 3,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M3",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M5",
+                    "row": 2,
+                    "column": 3
+                }, {
+                    "symbol": "M2",
+                    "row": 3,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "6",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 3
+        },
+        "result": {
+            "reward_score": "125400.00",
+            "grids": [
+                ["M4", "M3", "M5", "M3"],
+                ["M3", "C1", "M4", "M4"],
+                ["M4", "M1", "M1", "M4"],
+                ["M2", "M4", "C1", "M4"],
+                ["C1", "M1", "M3", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 3,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 0
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 4,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "9",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 4
+        },
+        "result": {
+            "reward_score": "126600.00",
+            "grids": [
+                ["M4", "M3", "M5", "M3"],
+                ["M3", "C1", "M4", "M4"],
+                ["M4", "M1", "M1", "M4"],
+                ["M2", "M4", "C1", "M4"],
+                ["C1", "M1", "M3", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 3,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 0
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 4,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "12",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 5
+        },
+        "result": {
+            "reward_score": "127800.00",
+            "grids": [
+                ["M4", "M3", "M5", "M3"],
+                ["M3", "C1", "M4", "M4"],
+                ["M4", "M1", "M1", "M4"],
+                ["M2", "M4", "C1", "M4"],
+                ["C1", "M1", "M3", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 3,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 0
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 4,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "1",
+        "pass_symbol_count": "15",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 6
+        },
+        "result": {
+            "reward_score": "129000.00",
+            "grids": [
+                ["M4", "M3", "M5", "M3"],
+                ["M3", "C1", "M4", "M4"],
+                ["M4", "M1", "M1", "M4"],
+                ["M2", "M4", "C1", "M4"],
+                ["C1", "M1", "M3", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 3,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 0
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 4,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M1",
+                    "row": 2,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "2",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 7
+        },
+        "result": {
+            "reward_score": "138000.00",
+            "grids": [
+                ["", "M2", "M2", "M3", "M2"],
+                ["M5", "M4", "M3", "M4", "M4"],
+                ["M5", "M2", "M3", "M4", "M4"],
+                ["M5", "M5", "M4", "M4", "C1"],
+                ["M2", "M3", "M3", "M4", "M4"],
+                ["M5", "M4", "M2", "M5", "M5"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 3,
+                        "column": 4
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 4
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 8,
+                    "rate": 20,
+                    "win_score": "6000.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 4
+                    }, {
+                        "row": 3,
+                        "column": 4
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 3
+                    }, {
+                        "row": 4,
+                        "column": 4
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M3",
+                    "row": 2,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 3,
+                    "column": 3
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 4
+                }, {
+                    "symbol": "M3",
+                    "row": 1,
+                    "column": 4
+                }, {
+                    "symbol": "M4",
+                    "row": 2,
+                    "column": 4
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M3",
+                    "count": 6,
+                    "rate": 10,
+                    "win_score": "3000.00",
+                    "positions": [{
+                        "row": 2,
+                        "column": 2
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 1
+                    }, {
+                        "row": 4,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 1,
+                    "column": 2
+                }, {
+                    "symbol": "C1",
+                    "row": 2,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 3
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 1,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 2,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 2
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "2",
+        "pass_symbol_count": "2",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 8
+        },
+        "result": {
+            "reward_score": "138000.00",
+            "grids": [
+                ["M2", "M4", "M3", "M4", "M1"],
+                ["M5", "M3", "M5", "M3", "M4"],
+                ["M4", "M5", "M2", "M4", "M5"],
+                ["M3", "M2", "M5", "M1", "M1"],
+                ["M2", "M4", "M5", "M3", "M1"],
+                ["M3", "M4", "M4", "M4", "M3"]
+            ],
+            "steps": []
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "2",
+        "pass_symbol_count": "4",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 9
+        },
+        "result": {
+            "reward_score": "142800.00",
+            "grids": [
+                ["M2", "M2", "M1", "M5", "M2"],
+                ["M5", "M4", "M3", "C1", "M3"],
+                ["M4", "M4", "M2", "M3", "M4"],
+                ["M3", "M3", "M2", "M2", "M1"],
+                ["M2", "M5", "M5", "M2", "M2"],
+                ["M3", "M4", "C1", "M4", "M4"]
+            ],
+            "steps": [{
+                "clear_blocks": [{
+                    "symbol_id": "C1",
+                    "count": 2,
+                    "rate": 0,
+                    "win_score": "0.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 5,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 3
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M2",
+                    "count": 5,
+                    "rate": 10,
+                    "win_score": "3000.00",
+                    "positions": [{
+                        "row": 3,
+                        "column": 2
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }, {
+                        "row": 4,
+                        "column": 2
+                    }, {
+                        "row": 4,
+                        "column": 3
+                    }, {
+                        "row": 4,
+                        "column": 4
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M4",
+                    "row": 1,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M5",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 4
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M4",
+                    "count": 5,
+                    "rate": 4,
+                    "win_score": "1200.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 1,
+                        "column": 2
+                    }, {
+                        "row": 2,
+                        "column": 1
+                    }, {
+                        "row": 2,
+                        "column": 0
+                    }, {
+                        "row": 2,
+                        "column": 2
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 0
+                }, {
+                    "symbol": "M3",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 1,
+                    "column": 1
+                }, {
+                    "symbol": "M5",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M5",
+                    "row": 1,
+                    "column": 2
+                }]
+            }, {
+                "clear_blocks": [{
+                    "symbol_id": "M5",
+                    "count": 5,
+                    "rate": 2,
+                    "win_score": "600.00",
+                    "positions": [{
+                        "row": 1,
+                        "column": 1
+                    }, {
+                        "row": 1,
+                        "column": 2
+                    }, {
+                        "row": 1,
+                        "column": 3
+                    }, {
+                        "row": 2,
+                        "column": 3
+                    }, {
+                        "row": 3,
+                        "column": 3
+                    }]
+                }],
+                "fill_symbols": [{
+                    "symbol": "M4",
+                    "row": 0,
+                    "column": 1
+                }, {
+                    "symbol": "M2",
+                    "row": 0,
+                    "column": 2
+                }, {
+                    "symbol": "M1",
+                    "row": 0,
+                    "column": 3
+                }, {
+                    "symbol": "M1",
+                    "row": 1,
+                    "column": 3
+                }, {
+                    "symbol": "M2",
+                    "row": 2,
+                    "column": 3
+                }]
+            }]
+        }
+    }
+}, {
+    "status": {
+        "code": "0",
+        "message": "",
+        "time": "2019-01-02T22:46:15-04:00"
+    },
+    "data": {
+        "score": "1000000.00",
+        "bet_score": "10000.00",
+        "total_bet_score": "0.00",
+        "round_id": "AV758936ef-797b-4e5b-b7af-7a7ff66ce233",
+        "game_level": "2",
+        "pass_symbol_count": "4",
+        "free_spin": {
+            "status": true,
+            "multiple": 3,
+            "count": 10,
+            "used": 10
+        },
+        "result": {
+            "reward_score": "142800.00",
+            "grids": [
+                ["M2", "M4", "M3", "M4", "M1"],
+                ["M5", "M3", "M5", "M3", "M4"],
+                ["M4", "M5", "M2", "M4", "M5"],
+                ["M3", "M2", "M5", "M1", "M1"],
+                ["M2", "M4", "M5", "M3", "M1"],
+                ["M3", "M4", "M4", "M4", "M3"]
+            ],
+            "steps": []
+        }
+    }
+}]
